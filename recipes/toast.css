@@ -1,0 +1,57 @@
+div {
+    color: red;
+    font-size: larger;
+
+}
+
+h1 {
+    align-content: center;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+h2 {
+    align-content: center;
+    text-align: left;
+    color: black;
+    font-size: 30px
+}
+
+h3 {
+    align-content: center;
+    text-align: left;
+    color: black;
+    font-size: 30px
+}
+
+h4 {
+    align-content: center;
+    text-align: left;
+    color: black;
+    font-size: 30px
+}
+
+img {
+    width: 700px;
+    height: 400px;
+    align-content: center;
+}
+
+div.ingredients {
+    color: blue;
+    background-color: grey;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+div.steps {
+    color: purple;
+    background-color: grey;
+    font-weight: bold;
+    font-size: 24px;
+    align-content: center;
+
+}
+
